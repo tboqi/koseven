@@ -61,7 +61,7 @@ Feel free to [open an issue on github](https://github.com/koseven/koseven/issues
 
 We are working to improve the original Kohana documentation but in the meantime fill free to use the one provided by KO.
 
-Koseven documentation can be found at [docs.koseven.ga](https://docs.koseven.ga) which also contains an API browser.
+Koseven documentation can be found at [docs.koseven.ga](https://docs.koseven.ga) which also contains an API browser. Additionally some of e.g. best practices and examples are provided in the [wiki](https://github.com/koseven/koseven/wiki).
 
 The `userguide` module included in all Kohana/Koseven releases allows you to view the documentation locally. To use it you need to enable the`userguide` module in the bootstrap.php file (found in the `application` directory). Next you should be able to read the documentation from your own site via `/index.php/guide` (or just `/guide` if you are rewriting your URLs).
 
