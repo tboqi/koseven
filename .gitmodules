@@ -1,0 +1,6 @@
+[submodule "apps/chentublog"]
+	path = apps/chentublog
+	url = git@github.com:tboqi/koseven_app_chentublog.git
+[submodule "modules/smarty"]
+	path = modules/smarty
+	url = git@github.com:MrAnchovy/Kohana_Smarty3.git
