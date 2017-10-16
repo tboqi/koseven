@@ -4,3 +4,6 @@
 [submodule "modules/smarty"]
 	path = modules/smarty
 	url = git@github.com:MrAnchovy/Kohana_Smarty3.git
+[submodule "apps/www"]
+	path = apps/www
+	url = git@github.com:tboqi/koseven_app_www.git
