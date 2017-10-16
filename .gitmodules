@@ -3,7 +3,10 @@
 	url = git@github.com:tboqi/koseven_app_chentublog.git
 [submodule "modules/smarty"]
 	path = modules/smarty
-	url = git@github.com:MrAnchovy/Kohana_Smarty3.git
+	url = git@github.com:tboqi/Kohana_module_smarty3.git
 [submodule "apps/www"]
 	path = apps/www
 	url = git@github.com:tboqi/koseven_app_www.git
+[submodule "pagination"]
+	path = pagination
+	url = git@github.com:tboqi/kohana-module-pagination-3.3.git
