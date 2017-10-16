@@ -10,3 +10,6 @@
 [submodule "pagination"]
 	path = pagination
 	url = git@github.com:tboqi/kohana-module-pagination-3.3.git
+[submodule "modules/pagination"]
+	path = modules/pagination
+	url = git@github.com:tboqi/kohana-module-pagination-3.3.git
