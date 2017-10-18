@@ -10,6 +10,12 @@
 [submodule "apps/www"]
 	path = apps/www
 	url = git@github.com:tboqi/koseven_app_www.git
+[submodule "apps/tiens_mqtest"]
+	path = apps/tiens_mqtest
+	url = git@192.168.3.195:tmq1/mqtest.git
+[submodule "apps/tools"]
+	path = apps/tools
+	url = git@github.com:tboqi/koseven_app_tools.git
 
 [submodule "modules/smarty"]
 	path = modules/smarty
@@ -17,15 +23,9 @@
 [submodule "modules/pagination"]
 	path = modules/pagination
 	url = git@github.com:tboqi/kohana-module-pagination-3.3.git
-[submodule "apps/tiens_mqtest"]
-	path = apps/tiens_mqtest
-	url = git@192.168.3.195:tmq1/mqtest.git
-[submodule "apps/tools"]
-	path = apps/tools
-	url = git@github.com:tboqi/koseven_app_tools.git
 [submodule "modules/admin"]
 	path = modules/admin
 	url = git@github.com:kloopko/kohana-admin.git
-[submodule "kostache"]
+[submodule "modules/kostache"]
 	path = kostache
 	url = https://github.com/zombor/KOstache.git
