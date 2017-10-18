@@ -23,3 +23,6 @@
 [submodule "apps/tools"]
 	path = apps/tools
 	url = git@github.com:tboqi/koseven_app_tools.git
+[submodule "modules/admin"]
+	path = modules/admin
+	url = git@github.com:kloopko/kohana-admin.git
