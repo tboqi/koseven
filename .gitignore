@@ -12,3 +12,5 @@ application/logs/*
 # Composer
 /vendor/
 composer.lock
+
+*Recycle.Bin*
