@@ -26,3 +26,6 @@
 [submodule "modules/admin"]
 	path = modules/admin
 	url = git@github.com:kloopko/kohana-admin.git
+[submodule "modules/kostache"]
+	path = modules/kostache
+	url = https://github.com/zombor/KOstache.git
