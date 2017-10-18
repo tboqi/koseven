@@ -1,24 +1,22 @@
 [submodule "apps/chentublog"]
 	path = apps/chentublog
 	url = git@github.com:tboqi/koseven_app_chentublog.git
-[submodule "modules/smarty"]
-	path = modules/smarty
-	url = git@github.com:tboqi/Kohana_module_smarty3.git
-[submodule "apps/www"]
-	path = apps/www
-	url = git@github.com:tboqi/koseven_app_www.git
-[submodule "modules/pagination"]
-	path = modules/pagination
-	url = git@github.com:tboqi/kohana-module-pagination-3.3.git
-[submodule "apps/tiens_mqtest"]
-	path = apps/tiens_mqtest
-	url = git@192.168.3.195:tmq1/mqtest.git
-[submodule "apps/tools"]
-	path = apps/tools
-	url = git@github.com:tboqi/koseven_app_tools.git
 [submodule "apps/admin"]
 	path = apps/admin
 	url = git@github.com:tboqi/koseven_app_admin.git
 [submodule "apps/my"]
 	path = apps/my
 	url = git@github.com:tboqi/koseven_app_my.git
+[submodule "apps/www"]
+	path = apps/www
+	url = git@github.com:tboqi/koseven_app_www.git
+
+[submodule "modules/smarty"]
+	path = modules/smarty
+	url = git@github.com:tboqi/Kohana_module_smarty3.git
+[submodule "modules/pagination"]
+	path = modules/pagination
+	url = git@github.com:tboqi/kohana-module-pagination-3.3.git
+[submodule "apps/tiens_mqtest"]
+	path = apps/tiens_mqtest
+	url = git@192.168.3.195:tmq1/mqtest.git
