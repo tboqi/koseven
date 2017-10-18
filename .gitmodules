@@ -19,3 +19,6 @@
 [submodule "apps/admin"]
 	path = apps/admin
 	url = git@github.com:tboqi/koseven_app_admin.git
+[submodule "apps/my"]
+	path = apps/my
+	url = git@github.com:tboqi/koseven_app_my.git
