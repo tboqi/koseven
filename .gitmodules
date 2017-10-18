@@ -25,7 +25,7 @@
 	url = git@github.com:tboqi/kohana-module-pagination-3.3.git
 [submodule "modules/admin"]
 	path = modules/admin
-	url = git@github.com:kloopko/kohana-admin.git
+	url = https://github.com/vimofthevine/kohana-admin.git
 [submodule "modules/kostache"]
 	path = modules/kostache
 	url = https://github.com/zombor/KOstache.git
